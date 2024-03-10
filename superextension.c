@@ -1,7 +1,7 @@
 #include "postgres.h"
 #include "fmgr.h"
 #include "utils/builtins.h"
-#include "/usr/local/pgsql/include/server/funcapi.h"
+#include "funcapi.h"
 
 
 #ifdef PG_MODULE_MAGIC
