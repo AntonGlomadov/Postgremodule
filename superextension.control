@@ -1,0 +1,5 @@
+# superextension extension
+comment = 'Super Extension'
+default_version = '1.0'
+module_pathname = '$libdir/superextension'
+relocatable = false
